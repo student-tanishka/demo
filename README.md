@@ -1,4 +1,4 @@
 # demo
 This is my first Git repository.
 <br>
-Author - Tanishka Jain
+Author - Tanishka (Student)
